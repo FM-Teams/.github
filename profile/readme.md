@@ -11,6 +11,10 @@ this is here where every F.M or Friday night funky content gonna be here so stay
 `a wiki for the F.M engine`
 <br>
 
+### • [Jula.js](https://github.com/FM-Teams/Jula.js)
+`adptation of lua for Funkin.mit engine but can be used for anything`
+<br>
+
 # Credits
 
 some original assets like sounds/music/characters etc... was made by
